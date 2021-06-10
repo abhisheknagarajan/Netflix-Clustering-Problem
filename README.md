@@ -25,6 +25,7 @@ Import Libraries
 Data Preparation
 
 2.1 - Data Interpretation
+
 2.2 - Missing Value Treatment
 
 Exploratory Data Analysis
@@ -32,6 +33,7 @@ Exploratory Data Analysis
 Data Cleaning
 
 4.1 - Replacement
+
 4.2 - Scale the Data
 
 Clustering
