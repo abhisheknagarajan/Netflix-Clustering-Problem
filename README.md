@@ -32,6 +32,9 @@ Is Netflix has increasingly focusing on TV rather than movies in recent years.</
 <b>Duration</b>                             = Running of TV Show (in termms of Episodes) or Movie (in minutes)<br><br>
 <b>Genre</b>                                = Classification or Type of TV Show or Movie fall under<br><br>
 <b>IMDB Weighted Average Vote</b>           = Average Weighted Votes taken from IMDB<br><br>
+
+<h4>Notebook Link : <a href='https://github.com/Akshay672/CASE_STUDY_NETFLIX_CLUSTERING_AND_RECOMMENDATION/blob/main/NETFLIX_CLUSTERING_AND_RECOMMENDATION.ipynb'>NETFLIX_CLUSTERING_AND_RECOMMENDATION.ipynb</a></h4>
+
 <b>IMDB Total Votes</b>                     = Collective Votes taken from IMDB<br><br>
 <b>IMDB US Voters Rating</b>                = Voters Rating on the basis of US users<br><br>
 <b>IMDB Non US Voters Rating</b>        = Voters Rating on the basis of non-US users<br><br>
