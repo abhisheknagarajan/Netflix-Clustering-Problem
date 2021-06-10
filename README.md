@@ -2,8 +2,6 @@
 
 <img src="tenor (1).gif" width="750" align="center">
 
-
-<img src="What_is_netflix.png" width="750" align="center">
 <h2><font color='#b20710'>About this Dataset</font></h2>
 <h3><font color='#b20710'>TV Shows and Movies listed on Netflix</font></h3>
 
