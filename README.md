@@ -33,12 +33,6 @@ Is Netflix has increasingly focusing on TV rather than movies in recent years.</
 <b>Genre</b>                                = Classification or Type of TV Show or Movie fall under<br><br>
 <b>IMDB Weighted Average Vote</b>           = Average Weighted Votes taken from IMDB<br><br>
 
-https://github.com/abhisheknagarajan/Netflix-Clustering-Problem/blob/main/NETFLIX%20Clustering%20%26%20Recommendation-Copy1.ipynb
-
-<h4>Notebook Link : <a href='https://github.com/abhisheknagarajan/Netflix-Clustering-Problem/blob/main/NETFLIX%20Clustering%20%26%20Recommendation-Copy1.ipynb'>NETFLIX_CLUSTERING_AND_RECOMMENDATION.ipynb</a></h4>
-
-<h4>Notebook Link : <a href='https://github.com/Akshay672/CASE_STUDY_NETFLIX_CLUSTERING_AND_RECOMMENDATION/blob/main/NETFLIX_CLUSTERING_AND_RECOMMENDATION.ipynb'>NETFLIX_CLUSTERING_AND_RECOMMENDATION.ipynb</a></h4>
-
 <b>IMDB Total Votes</b>                     = Collective Votes taken from IMDB<br><br>
 <b>IMDB US Voters Rating</b>                = Voters Rating on the basis of US users<br><br>
 <b>IMDB Non US Voters Rating</b>        = Voters Rating on the basis of non-US users<br><br>
@@ -105,3 +99,4 @@ https://github.com/abhisheknagarajan/Netflix-Clustering-Problem/blob/main/NETFLI
 7. *[<font color='#b20710'>Conclusion</font>](#conclusion)*
 
 
+<h4>Notebook Link : <a href='https://github.com/abhisheknagarajan/Netflix-Clustering-Problem/blob/main/NETFLIX%20Clustering%20%26%20Recommendation-Copy1.ipynb'>NETFLIX_CLUSTERING_AND_RECOMMENDATION.ipynb</a></h4>
