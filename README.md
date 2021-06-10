@@ -1,6 +1,6 @@
 # Netflix Clustering & Recommendation
 
-<img src="tenor(1).gif" width="750" align="center">
+<img src="tenor (1).gif" width="750" align="center">
 
 
 <img src="What_is_netflix.png" width="750" align="center">
